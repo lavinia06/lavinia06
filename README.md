@@ -1,5 +1,4 @@
 ### Hi, I'm Lavinia!👋
-Here are some ideas to get you started:
 
 
 👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech
