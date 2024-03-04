@@ -7,6 +7,8 @@
  🔭 I’m currently working on my bachelor's degree 
  🌱 I’m currently learning Swift, Firebase
 
+ [![Lavinia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavinia06)](https://github.com/anuraghazra/github-readme-stats)
+
 📫 How to reach me: https://www.linkedin.com/in/lavinia-ionel-21bb6a239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
 
 
