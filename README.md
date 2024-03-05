@@ -1,12 +1,12 @@
 ### Hi, I'm Lavinia!👋
 
 
-👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech
+👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech <br>
 👩🏻‍🎓 Studying Computer Science at the University Babeș-Bolay, Cluj-Napoca
 
  🔭 I’m currently working on my bachelor's degree <br>
- 🌱 I’m currently learning Swift, Firebase
- 
+ 🌱 I’m currently learning Swift, Firebase, body scanning, augmented reality
+ <3 fun fact 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lavinia_ionel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lavinia Ionel) 
 
