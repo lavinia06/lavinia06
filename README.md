@@ -4,7 +4,7 @@
 👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech
 👩🏻‍🎓 Studying Computer Science at the University Babeș-Bolay, Cluj-Napoca
 
- 🔭 I’m currently working on my bachelor's degree 
+ 🔭 I’m currently working on my bachelor's degree <br>
  🌱 I’m currently learning Swift, Firebase
  
 ## 🌐 Socials:
