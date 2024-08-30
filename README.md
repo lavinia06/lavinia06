@@ -1,8 +1,8 @@
 ### Hi, I'm Lavinia!👋
 
 
-👩🏻‍💻 Computer Science student sharing about my journey and learnings in tech <br>
-👩🏻‍🎓 Studying Computer Science at the University Babeș-Bolay, Cluj-Napoca
+👩🏻‍💻 Master Data Science student sharing about my journey and learnings in tech <br>
+👩🏻‍🎓 Finished Computer Science at the University Babeș-Bolay, Cluj-Napoca
 
  🔭 I’m currently working on my bachelor's degree <br>
  🌱 I’m currently learning Swift, Firebase, body scanning, augmented reality
